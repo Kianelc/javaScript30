@@ -9,4 +9,4 @@ This repo contains all the challenges from [JavaScript30](https://javascript30.c
 
 ## Challenges
 
-* Day 01: JavaScript Drum Kit
+[:heavy_check_mark:] Day 01: [JavaScript Drum Kit](https://github.com/Kianelc/javaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
